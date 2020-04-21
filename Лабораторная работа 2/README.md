@@ -7,3 +7,5 @@
 
 Запуск программы: `python mobile_lab2.py`
 
+Контакты : shikakada@gmail.com
+
