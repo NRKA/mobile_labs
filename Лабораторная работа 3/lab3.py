@@ -131,16 +131,3 @@ def converting_to_pdf():
 
 
 converting_to_pdf()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
